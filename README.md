@@ -4,6 +4,9 @@ Pong is a table tennis-themed arcade sports video game, featuring simple two-dim
 
 ## Python-Pong
 
+![Pong Game](https://user-images.githubusercontent.com/86045918/124713837-a9759380-df1e-11eb-9fcf-f77df96713d6.png)
+
+
 Pong game using python in-built turtle module.
 
 ## Gameplay
